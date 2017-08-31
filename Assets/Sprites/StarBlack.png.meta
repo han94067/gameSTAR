@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: c32d80d9f7cdb7440a1b1aad0765a752
+timeCreated: 1466576064
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StarBlack_0
+    21300002: StarBlack_3
+    21300004: StarBlack_2
+    21300006: StarBlack_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: StarBlack_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 408
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113, y: -200}
+        - {x: 130, y: -200}
+        - {x: 128, y: -192}
+        - {x: 87, y: -49}
+        - {x: 94, y: -45}
+        - {x: 200, y: 36}
+        - {x: 200, y: 50}
+        - {x: 86, y: 54}
+        - {x: 52, y: 56}
+        - {x: 10, y: 192}
+        - {x: 7, y: 200}
+        - {x: -6, y: 200}
+        - {x: -9, y: 191}
+        - {x: -53, y: 53}
+        - {x: -125, y: 53}
+        - {x: -200, y: 50}
+        - {x: -200, y: 35}
+        - {x: -89, y: -51}
+        - {x: -122, y: -160}
+        - {x: -130, y: -200}
+        - {x: -112, y: -200}
+        - {x: -22, y: -136}
+        - {x: 2, y: -121}
+        - {x: 41, y: -149}
+    - name: StarBlack_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 408
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 200, y: 6}
+        - {x: 191, y: 9}
+        - {x: 53, y: 53}
+        - {x: 53, y: 125}
+        - {x: 50, y: 200}
+        - {x: 37, y: 200}
+        - {x: 33, y: 197}
+        - {x: 23, y: 185}
+        - {x: -50, y: 87}
+        - {x: -57, y: 90}
+        - {x: -196, y: 129}
+        - {x: -200, y: 129}
+        - {x: -200, y: 112}
+        - {x: -188, y: 94}
+        - {x: -122, y: -2}
+        - {x: -200, y: -113}
+        - {x: -200, y: -130}
+        - {x: -177, y: -126}
+        - {x: -46, y: -94}
+        - {x: 36, y: -200}
+        - {x: 50, y: -200}
+        - {x: 56, y: -52}
+        - {x: 192, y: -10}
+        - {x: 200, y: -7}
+    - name: StarBlack_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 200, y: -50}
+        - {x: 200, y: -37}
+        - {x: 197, y: -33}
+        - {x: 185, y: -23}
+        - {x: 88, y: 50}
+        - {x: 128, y: 188}
+        - {x: 129, y: 200}
+        - {x: 113, y: 200}
+        - {x: 108, y: 198}
+        - {x: -2, y: 122}
+        - {x: -113, y: 200}
+        - {x: -130, y: 200}
+        - {x: -129, y: 191}
+        - {x: -88, y: 50}
+        - {x: -200, y: -35}
+        - {x: -200, y: -50}
+        - {x: -86, y: -54}
+        - {x: -53, y: -56}
+        - {x: -15, y: -179}
+        - {x: -7, y: -200}
+        - {x: 7, y: -200}
+        - {x: 53, y: -54}
+        - {x: 124, y: -52}
+    - name: StarBlack_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 200, y: -129}
+        - {x: 200, y: -112}
+        - {x: 181, y: -84}
+        - {x: 121, y: 1}
+        - {x: 133, y: 16}
+        - {x: 200, y: 110}
+        - {x: 200, y: 130}
+        - {x: 195, y: 129}
+        - {x: 51, y: 88}
+        - {x: -34, y: 200}
+        - {x: -49, y: 200}
+        - {x: -53, y: 86}
+        - {x: -55, y: 53}
+        - {x: -110, y: 36}
+        - {x: -200, y: 7}
+        - {x: -200, y: -8}
+        - {x: -171, y: -15}
+        - {x: -53, y: -53}
+        - {x: -52, y: -125}
+        - {x: -49, y: -200}
+        - {x: -36, y: -200}
+        - {x: -32, y: -197}
+        - {x: 52, y: -88}
+        - {x: 171, y: -124}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

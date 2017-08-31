@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 1206ba5f8ec65c14bbcd30fc2394e915
+timeCreated: 1466585043
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StarYellow_0
+    21300002: StarYellow_1
+    21300004: StarYellow_2
+    21300006: StarYellow_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: StarYellow_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 408
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 131, y: -200}
+        - {x: 129, y: -192}
+        - {x: 88, y: -49}
+        - {x: 95, y: -46}
+        - {x: 200, y: 35}
+        - {x: 200, y: 50}
+        - {x: 53, y: 56}
+        - {x: 11, y: 192}
+        - {x: 8, y: 200}
+        - {x: -5, y: 200}
+        - {x: -8, y: 191}
+        - {x: -52, y: 53}
+        - {x: -85, y: 53}
+        - {x: -123, y: 52}
+        - {x: -200, y: 52}
+        - {x: -200, y: 35}
+        - {x: -87, y: -50}
+        - {x: -119, y: -161}
+        - {x: -128, y: -196}
+        - {x: -128, y: -200}
+        - {x: -111, y: -200}
+        - {x: 3, y: -121}
+        - {x: 42, y: -149}
+        - {x: 114, y: -200}
+    - name: StarYellow_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 408
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 200, y: 6}
+        - {x: 191, y: 9}
+        - {x: 53, y: 53}
+        - {x: 53, y: 125}
+        - {x: 50, y: 200}
+        - {x: 37, y: 200}
+        - {x: 33, y: 197}
+        - {x: 23, y: 185}
+        - {x: -50, y: 87}
+        - {x: -57, y: 90}
+        - {x: -196, y: 129}
+        - {x: -200, y: 129}
+        - {x: -200, y: 112}
+        - {x: -188, y: 94}
+        - {x: -122, y: -2}
+        - {x: -200, y: -113}
+        - {x: -200, y: -130}
+        - {x: -177, y: -126}
+        - {x: -46, y: -94}
+        - {x: 36, y: -200}
+        - {x: 50, y: -200}
+        - {x: 56, y: -52}
+        - {x: 192, y: -10}
+        - {x: 200, y: -7}
+    - name: StarYellow_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 200, y: -36}
+        - {x: 194, y: -29}
+        - {x: 89, y: 50}
+        - {x: 129, y: 188}
+        - {x: 130, y: 200}
+        - {x: 114, y: 200}
+        - {x: 109, y: 198}
+        - {x: -1, y: 122}
+        - {x: -112, y: 200}
+        - {x: -129, y: 200}
+        - {x: -128, y: 191}
+        - {x: -95, y: 80}
+        - {x: -93, y: 46}
+        - {x: -200, y: -37}
+        - {x: -200, y: -50}
+        - {x: -85, y: -53}
+        - {x: -52, y: -56}
+        - {x: -14, y: -179}
+        - {x: -6, y: -200}
+        - {x: 8, y: -200}
+        - {x: 54, y: -54}
+        - {x: 125, y: -52}
+        - {x: 200, y: -50}
+    - name: StarYellow_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 196, y: -129}
+        - {x: 200, y: -129}
+        - {x: 200, y: -112}
+        - {x: 188, y: -94}
+        - {x: 122, y: 2}
+        - {x: 200, y: 113}
+        - {x: 200, y: 130}
+        - {x: 192, y: 129}
+        - {x: 50, y: 87}
+        - {x: 45, y: 94}
+        - {x: -36, y: 200}
+        - {x: -50, y: 200}
+        - {x: -54, y: 86}
+        - {x: -56, y: 53}
+        - {x: -179, y: 15}
+        - {x: -200, y: 7}
+        - {x: -200, y: -6}
+        - {x: -54, y: -53}
+        - {x: -53, y: -125}
+        - {x: -50, y: -200}
+        - {x: -37, y: -200}
+        - {x: -33, y: -197}
+        - {x: 51, y: -88}
+        - {x: 160, y: -120}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
